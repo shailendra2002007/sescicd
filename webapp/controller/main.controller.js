@@ -5,6 +5,7 @@ sap.ui.define([
 
     return Controller.extend("com.trial.ses.controller.main", {
         onInit() {
+            var a = 'change build';
         }
     });
 });
